@@ -1,0 +1,53 @@
+[
+  {
+    "product_id": "P1001",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 18.5,
+    "quantity": 24,
+    "reorder_level": 8,
+    "description": "Ergonomic wireless mouse for everyday productivity.",
+    "product_type": "standard"
+  },
+  {
+    "product_id": "P1002",
+    "name": "USB-C Hub",
+    "category": "Electronics",
+    "price": 32.0,
+    "quantity": 5,
+    "reorder_level": 10,
+    "description": "Multi-port USB-C hub for laptops.",
+    "product_type": "standard"
+  },
+  {
+    "product_id": "P1003",
+    "name": "Notebook A5",
+    "category": "Stationery",
+    "price": 3.25,
+    "quantity": 60,
+    "reorder_level": 15,
+    "description": "A5 ruled notebook for notes and planning.",
+    "product_type": "standard"
+  },
+  {
+    "product_id": "P1004",
+    "name": "Fresh Orange Juice",
+    "category": "Beverages",
+    "price": 4.75,
+    "quantity": 0,
+    "reorder_level": 12,
+    "description": "Chilled orange juice. Keep refrigerated.",
+    "product_type": "perishable",
+    "expiry_date": "2026-12-05"
+  },
+  {
+    "product_id": "P1005",
+    "name": "Desk Lamp",
+    "category": "Home & Office",
+    "price": 21.99,
+    "quantity": 14,
+    "reorder_level": 5,
+    "description": "Adjustable LED desk lamp.",
+    "product_type": "standard"
+  }
+]
